@@ -29,7 +29,7 @@ export function WhyChoose() {
           Why Choose Wanderlust
         </h2>
         <p className="mt-3.5 text-center text-lg text-[#6c696d]">
-          Your trusted partner for exceptional travel experiences
+          Your trusted partner for exceptional travel experiences.
         </p>
         <div className="mt-10 grid grid-cols-1 gap-6 md:grid-cols-3">
           {features.map((feature) => (
