@@ -42,7 +42,7 @@ export function Footer() {
           Wanderlast
         </h2>
         <p className="mt-4 text-xl text-[#b6b6b6]">
-          Your gateway to extraordinary travel experiences around the world.
+          Your gateway to extraordinary travel experiences around the world!
         </p>
         <div className="mt-[60px] grid grid-cols-1 gap-10 sm:grid-cols-2 md:grid-cols-[400px_233px_233px_233px] md:gap-[60px]">
           <div>
