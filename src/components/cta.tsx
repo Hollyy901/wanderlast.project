@@ -16,7 +16,7 @@ export function Cta() {
           Ready To Start Your Journey?
         </h2>
         <p className="mt-3 text-xl text-[#edfcff]">
-          Join thousands of travelers who have discovered the world with us
+          Join thousands of travelers who have discovered the world with us.
         </p>
         <a
           href="#"
