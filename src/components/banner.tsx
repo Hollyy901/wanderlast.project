@@ -24,7 +24,7 @@ export function Banner() {
       />
       <div className="relative z-10 flex flex-1 flex-col items-center justify-center px-6 py-16 text-center">
         <h1 className="font-display text-[clamp(2.75rem,8vw,6.5rem)] leading-[1.02] tracking-[-0.02em]">
-          Discover Your<br />Next Adventure
+          Discover Your<br />Next Adventure.
         </h1>
         <p className="mt-6 max-w-xl text-xl text-[#edfcff]">
           Explore breathtaking destinations and create unforgettable memories
