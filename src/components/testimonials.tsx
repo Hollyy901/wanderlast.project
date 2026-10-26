@@ -31,7 +31,7 @@ export function Testimonials() {
               What Travelers Say
             </h2>
             <p className="mt-2 text-lg text-[#6c696d]">
-              Real experiences from our happy travelers
+              Real experiences from our happy travelers.
             </p>
           </div>
           <div className="hidden items-center gap-4 sm:flex">
